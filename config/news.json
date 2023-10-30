@@ -1,0 +1,9 @@
+{
+    "rss":[
+       "https://russian.rt.com/rss",
+       "https://www.kommersant.ru/rss/main.xml",
+       "https://lenta.ru/rss/news"
+    ],
+    "request_period": 5
+ }
+
